@@ -1,12 +1,12 @@
 #ruby hex.rb hex_only.txt
 
-
+#PLAN
 # I want to iterate over each character in a text file,
 # print the character if it is a number or letter
 # if it is an '=' delete/strip it => This works for substuting vowels with *# puts code.gsub(/[aeiou]/, '*')
 # and move on to the next character.
 
-# 1) LTTLE TEST
+# 1) LITTLE TEST TO PRINT OUT EACH ELEMENT IN A STRING
 # code = "=a54=e68=i65=o20="
 #     #puts code
 #

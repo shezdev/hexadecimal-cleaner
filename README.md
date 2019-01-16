@@ -23,8 +23,9 @@ or, I was willing to settle for this, removing any `=` or spaces generated:
 ```
 
 ## Cleaning up the hex code
+In `hex.rb` I have shown my thought process to get to the solution.
 
 Run from command line using `ruby hex.rb hex_only.txt`
 
 ## Converting the sanitised hex to plain text
-Many hexadecimal to plain text tools on the web didn't work on the messy hex code properly apart from http://www.unit-conversion.info/texttools/hexadecimal/ I'll make my own one next time.
+Many hexadecimal to plain text tools on the web didn't work on the messy hex code properly apart from http://www.unit-conversion.info/texttools/hexadecimal/ I'll make my own one next time. :-)
